@@ -1,0 +1,10 @@
+{
+    "name": "irina/hexlet-php",
+    "authors": [
+        {
+            "name": "Irina",
+            "email": "Irina@WIN-5DG1GT59D4G.mshome.net"
+        }
+    ],
+    "require": {}
+}
