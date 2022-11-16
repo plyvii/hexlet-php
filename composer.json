@@ -1,5 +1,10 @@
 {
     "name": "irina/hexlet-php",
+    "autoload": {
+        "files": [
+            "./src/Runner.php"
+        ]
+    },
     "authors": [
         {
             "name": "Irina",
